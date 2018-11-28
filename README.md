@@ -334,6 +334,7 @@ anylysis and visualization.*
   * [ClojureCUDA](https://github.com/uncomplicate/clojurecuda)
   * [Neanderthal - fast matrix and linear algebra](https://github.com/uncomplicate/neanderthal)
   * [ClojureCL - parallel computations with OpenCL](https://github.com/uncomplicate/clojurecl)
+  * [Loom - Graph library for Clojure] (https://github.com/aysylu/loom)
 
 ## Machine Learning
 
